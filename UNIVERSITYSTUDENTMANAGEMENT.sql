@@ -93,7 +93,6 @@ SELECT COUNT(NAME)
 FROM Students
 WHERE AGE > 20;
 
--- AVG()
 SELECT AVG(AGE) 
 FROM Students;
 
